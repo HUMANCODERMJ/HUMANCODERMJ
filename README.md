@@ -6,7 +6,7 @@
 - 🎵 When I’m not coding, you’ll probably find me grooving to some good music because, let’s be honest… dancing just makes everything better!
 
 #### Social:
-<a href="www.linkedin.com/in/humancodermj">
+<a href="https://www.linkedin.com/in/humancodermj">
   <img
     height="25"
     width="25"
