@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi Buddy!👋
 
-<!--
-**human-coder-mj/human-coder-mj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 I’m a Computer Science undergrad with a passion for diving deep into tech—no rushing, just soaking up the knowledge one step at a time.
+- 🚀 I’ve dabbled in quite a few languages like Python, JavaScript, TypeScript, and Golang, and messed around with frameworks and libraries like Django, Express, React, and FastAPI.
+- 🏛️ Architectural patterns fascinate me—I love figuring out how to build things the smart way!
+- 🎵 When I’m not coding, you’ll probably find me grooving to some good music because, let’s be honest… dancing just makes everything better!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Social:
+<a href="www.linkedin.com/in/humancodermj">
+  <img
+    height="25"
+    width="25"
+    alt="LinkedIn"
+    src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="https://x.com/soulbeingmj">
+  <img
+    height="25"
+    width="25"
+    alt="LinkedIn"
+    src="https://skillicons.dev/icons?i=twitter" />
+</a>
+<a href="mailto:humancodermj@gmail.com">
+  <img
+    height="25"
+    width="25"
+    alt="LinkedIn"
+    src="https://skillicons.dev/icons?i=gmail" />
+</a>
