@@ -5,25 +5,8 @@
 - 🏛️ Architectural patterns fascinate me—I love figuring out how to build things the smart way!
 - 🎵 When I’m not coding, you’ll probably find me grooving to some good music because, let’s be honest… dancing just makes everything better!
 
-#### Social:
-<a href="https://www.linkedin.com/in/humancodermj">
-  <img
-    height="25"
-    width="25"
-    alt="LinkedIn"
-    src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-<a href="https://x.com/soulbeingmj">
-  <img
-    height="25"
-    width="25"
-    alt="LinkedIn"
-    src="https://skillicons.dev/icons?i=twitter" />
-</a>
-<a href="mailto:humancodermj@gmail.com">
-  <img
-    height="25"
-    width="25"
-    alt="LinkedIn"
-    src="https://skillicons.dev/icons?i=gmail" />
-</a>
+## stats
+<p align="center">
+<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs?username=human-coder-mj&show_icons=true&theme=highcontrast&locale=en&layout=compact&hide_border=true" /> 
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=human-coder-mj&show_icons=true&theme=highcontrast&locale=en&hide_border=true" />
