@@ -6,14 +6,14 @@
 > - 💬 **Open to talk on:** Machine Learning, Robotics, Geopolitics, Social Welfare, Space Technology, Music, Astrophysics, and any new topic.
 
 ### Programming Languages
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,py,ts" />
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,py,go,ts" />
 
 ### Web Frameworks & Libraries
 
 [![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com/)
 [![Django](https://skillicons.dev/icons?i=django)](https://www.djangoproject.com/)
 [![React](https://skillicons.dev/icons?i=react)](https://react.dev/)
-[![Golang](https://skillicons.dev/icons?i=go)](https://go.dev/)
+[![Golang](https://skillicons.dev/icons?i=dotnet)](https://dotnet.microsoft.com/en-us/)
 [![Tensorflow](https://skillicons.dev/icons?i=tensorflow)](https://www.tensorflow.org/)
 [![Pytorch](https://skillicons.dev/icons?i=pytorch)](https://pytorch.org/)
 
