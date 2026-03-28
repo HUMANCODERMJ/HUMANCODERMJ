@@ -6,14 +6,20 @@
 > - 💬 **Open to talk on:** Machine Learning, Robotics, Geopolitics, Social Welfare, Space Technology, Music, Astrophysics, and any new topic.
 
 ### Programming Languages
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,py,go,ts" />
+
+[![C](https://skillicons.dev/icons?i=c)](https://devdocs.io/c/)
+[![CPP](https://skillicons.dev/icons?i=cpp)](https://devdocs.io/cpp/)
+[![CS](https://skillicons.dev/icons?i=cs)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![Python](https://skillicons.dev/icons?i=py)](https://www.python.org/)
+[![Golang](https://skillicons.dev/icons?i=go)](https://go.dev/)
+[![Typescript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
 
 ### Web Frameworks & Libraries
 
 [![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com/)
 [![Django](https://skillicons.dev/icons?i=django)](https://www.djangoproject.com/)
 [![React](https://skillicons.dev/icons?i=react)](https://react.dev/)
-[![Golang](https://skillicons.dev/icons?i=dotnet)](https://dotnet.microsoft.com/en-us/)
+[![Dotnet](https://skillicons.dev/icons?i=dotnet)](https://dotnet.microsoft.com/en-us/)
 [![Tensorflow](https://skillicons.dev/icons?i=tensorflow)](https://www.tensorflow.org/)
 [![Pytorch](https://skillicons.dev/icons?i=pytorch)](https://pytorch.org/)
 
@@ -30,5 +36,5 @@
 [![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
 
 ----
-<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs?username=HUMANCODERMJ&show_icons=true&theme=transparent&locale=en&layout=compact&hide_border=false" /><img src="https://github-readme-streak-stats.herokuapp.com?user=HUMANCODERMJ&theme=transparent&hide_border=false" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=HUMANCODERMJ&theme=transparent&hide_border=false" alt="GitHub Streak" />
 
