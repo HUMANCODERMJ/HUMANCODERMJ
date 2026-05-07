@@ -19,9 +19,12 @@
 [![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com/)
 [![Django](https://skillicons.dev/icons?i=django)](https://www.djangoproject.com/)
 [![React](https://skillicons.dev/icons?i=react)](https://react.dev/)
+[![Next](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/)
 [![Dotnet](https://skillicons.dev/icons?i=dotnet)](https://dotnet.microsoft.com/en-us/)
 [![Tensorflow](https://skillicons.dev/icons?i=tensorflow)](https://www.tensorflow.org/)
 [![Pytorch](https://skillicons.dev/icons?i=pytorch)](https://pytorch.org/)
+[![Langchain](https://skills.syvixor.com/api/icons?i=langchain)](https://www.langchain.com/)
+
 
 ### Databases
 [![Firebase](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com/)
